@@ -78,10 +78,10 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ToolsHive/Create-Npm-Package.git"
+        "url": "git+https://github.com/ToolsHive/Create-NPM-Package.git"
     },
     "bugs": {
-        "url": "https://github.com/ToolsHive/Create-Npm-Package/issues"
+        "url": "https://github.com/ToolsHive/Create-NPM-Package/issues"
     },
-    "homepage": "https://github.com/ToolsHive/Create-Npm-Package#readme"
+    "homepage": "https://github.com/ToolsHive/Create-NPM-Package#readme"
 }

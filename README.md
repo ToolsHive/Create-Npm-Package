@@ -2,12 +2,14 @@
 <br>
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-![GitHub last commit](https://img.shields.io/github/last-commit/ToolsHive/Create-Npm-Package)
+[![CodeQL Security Analysis](https://github.com/ToolsHive/Create-NPM-Package/actions/workflows/codeql.yml/badge.svg)](https://github.com/ToolsHive/Create-NPM-Package/actions/workflows/codeql.yml)
+[![Dependabot Updates](https://github.com/ToolsHive/Create-NPM-Package/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/ToolsHive/Create-NPM-Package/actions/workflows/dependabot/dependabot-updates)
+![GitHub last commit](https://img.shields.io/github/last-commit/ToolsHive/Create-NPM-Package)
 ![Windows](https://img.shields.io/badge/platform-windows-blue)
 ![Linux](https://img.shields.io/badge/platform-linux-yellowgreen)
 ![macOS](https://img.shields.io/badge/platform-macOS-orange)
-[![GitHub](https://img.shields.io/github/license/ToolsHive/Create-Npm-Package)](https://github.com/ToolsHive/Create-Npm-Package/blob/main/LICENSE)
-![code-size](https://img.shields.io/github/languages/code-size/ToolsHive/Create-Npm-Package)
+[![GitHub](https://img.shields.io/github/license/ToolsHive/Create-NPM-Package)](https://github.com/ToolsHive/Create-NPM-Package/blob/main/LICENSE)
+![code-size](https://img.shields.io/github/languages/code-size/ToolsHive/Create-NPM-Package)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 A CLI tool for creating starter templates for npm packages using TypeScript or JavaScript, tailored to simplify package development.
@@ -43,7 +45,7 @@ A CLI tool for creating starter templates for npm packages using TypeScript or J
 You can install this package globally using npm to use the CLI tool directly in your terminal:
 
 ```bash
-npm install -g @toolshive/create-npm-package
+npm install -g @ToolsHive/Create-NPM-Package
 ```
 
 ## 🛠️ Usage
@@ -51,7 +53,7 @@ npm install -g @toolshive/create-npm-package
 To create a new npm package starter template, run the following command:
 
 ```bash
-npx @toolshive/create-npm-package
+npx @ToolsHive/Create-NPM-Package
 ```
 
 ## ❓ FAQ
@@ -73,7 +75,7 @@ A: Yes, during setup, you can choose between TypeScript or JavaScript for your p
   Use `sudo` for global installations:
 
   ```bash
-  sudo npm install -g @toolshive/create-npm-package
+  sudo npm install -g @ToolsHive/Create-NPM-Package
   ```
 
 - **💻 Installation Issues on Windows**
